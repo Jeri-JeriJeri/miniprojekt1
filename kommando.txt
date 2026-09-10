@@ -1,0 +1,15 @@
+kommando
+ 124  mkdir -p miniprojekt-1 miniprojekt-1/css miniprojekt-1/js miniprojekt-1/docs miniprojekt-1/images
+  125  touch miniprojekt-1/index.html miniprojekt-1/om.html
+  126  touch miniprojekt-1/kontakt.html
+  127  touch miniprojekt-1/css/style.css miniprojekt-1/css/responsive-style.css
+  128  mv miniprojekt-1/kontakt.html miniprojekt-1/boka-bord.html
+  129  clear
+  130  echo "Resturaunt Gabagool - Bojan" > miniprojekt-1/docs/README.txt 
+  131  echo " Sidan kommer" >> miniprojekt-1/docs/README.txt 
+  132  echo " Handla om" >> miniprojekt-1/docs/README.txt 
+  133  echo "en resturang" >> miniprojekt-1/docs/README.txt 
+  134  echo ".DS_Store" > miniprojekt-1/docs/gitfile.gitignore
+  135  echo "*.log" >> miniprojekt-1/docs/gitfile.gitignore
+  136  echo "kommando" > miniprojekt-1/kommando.txt
+  137  history
